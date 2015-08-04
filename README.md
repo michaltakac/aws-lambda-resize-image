@@ -1,0 +1,1 @@
+# aws-lambda-resize-image
